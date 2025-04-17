@@ -1,4 +1,4 @@
-# A simple MERN stack application
+# A simple MERN stack application by Sai Srungavarapu
 
 **Note** - To run this project using `docker compose`, follow the below steps.
 
